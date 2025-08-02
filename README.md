@@ -44,7 +44,8 @@ I'm a **Fullstack Developer** passionate about crafting clean, scalable, and per
 
 ### 📫 Reach out
 
-Feel free to connect via [LinkedIn](https://www.linkedin.com/in/patamarcelo) or open an issue in one of my repos!
+Feel free to connect via [LinkedIn](https://www.linkedin.com/in/patamarcelo), email me at [patamarcelo@gmail.com](mailto:patamarcelo@gmail.com), or open an issue in one of my repos!
+
 
 ---
 
